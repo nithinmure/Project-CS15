@@ -47,6 +47,8 @@ Initially focused on analyzing static images, the system has evolved to support 
 2. **IEEE International Conference on Artificial Intelligence and Education (ICAIE) 2023**  
    - Date: March 20-22, 2023
    - Focus: AI's role in enhancing educational practices
+![image](https://github.com/user-attachments/assets/c991200c-dc9d-4909-b572-87ee65082828)
+
 
 ## 🤝 **Team Members:**
 - **BU21EECE0100565:** Shaik Nabi Baba
